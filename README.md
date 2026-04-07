@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋 I'm Abnet Wolde
 
-<!--
-**Abenetwolde/Abenetwolde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer | Problem Solver | Tech Explorer  
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in building practical technology solutions.  
+I enjoy working on projects that combine **software, innovation, and real-world impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌍 Based in Ethiopia
+- 💻 Focused on web development and backend systems
+- 🧠 Always learning new technologies and improving my problem-solving skills
+- 🔧 Interested in building scalable systems and useful digital tools
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- Python
+- HTML / CSS
+
+**Frameworks & Tools**
+- Node.js
+- React
+- React Native
+- Git & GitHub
+- Linux / Ubuntu
+
+---
+
+## 🚧 Current Projects
+
+- 🔎 **Feisl Finder** – a platform designed to help people find services more easily
+- 🌐 Web applications using **React and Node.js**
+- 📱 Exploring **cross-platform mobile development with React Native**
+
+---
+
+## 📈 Goals
+
+- Build impactful products that solve real problems  
+- Contribute to open-source projects  
+- Continuously improve my software engineering skills
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (add if you have one)
+
+---
+
+⭐ *“Building things that people actually use.”*
